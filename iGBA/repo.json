@@ -1,7 +1,7 @@
 {
-  "reponame": "Repo Name",
+  "reponame": "GBA Realm",
   "repologo": "URL to Icon",
-  "author": "Repo Author",
+  "author": "Enderapps",
   "games": [{
       "name": "Game name",
       "boxart": "URL to Box art",

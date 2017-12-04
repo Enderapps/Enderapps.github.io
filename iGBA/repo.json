@@ -1,0 +1,9 @@
+{
+  "reponame": "Repo Name",
+  "repologo": "URL to Icon",
+  "author": "Repo Author",
+  "games": [{
+      "name": "Game name",
+      "boxart": "URL to Box art",
+      "url": "Direct URL to .gba file"
+    }

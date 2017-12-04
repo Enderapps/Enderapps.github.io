@@ -4,6 +4,6 @@
   "author": "Enderapps",
   "games": [{
       "name": "Pokemon Emerald",
-      "boxart": "URL to Box art",
-      "url": "Direct URL to .gba file"
+      "boxart": "http://enderapps.github.io/iGBA/Pokemon%20Emerald/boxart.png",
+      "url": "http://enderapps.github.io/iGBA/Pokemon%20Emerald/Pokemon_Emerald.gba"
     }

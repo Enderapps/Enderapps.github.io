@@ -1,9 +1,9 @@
 {
   "reponame": "GBA Realm",
-  "repologo": "URL to Icon",
+  "repologo": "http://enderapps.github.io/iGBA/repo.png",
   "author": "Enderapps",
   "games": [{
-      "name": "Game name",
+      "name": "Pokemon Emerald",
       "boxart": "URL to Box art",
       "url": "Direct URL to .gba file"
     }

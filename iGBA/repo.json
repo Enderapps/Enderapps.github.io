@@ -6,20 +6,21 @@
       "name": "Aladdin",
       "boxart": "https://enderapps.github.io/iGBA/art/aladdin.png",
       "url": "https://enderapps.github.io/iGBA/roms/aladdin.gba"
-    },   {
+    },
+    {
+      "name": "Crash Bandicoot 2 - N-Tranced (E)",
+      "boxart": "https://enderapps.github.io/iGBA/art/cb2.png",
+      "url": "https://enderapps.github.io/iGBA/roms/cb2.gba"
+     }, 
+     {
       "name": "Dragon Ball Z - Buu’s Fury",
       "boxart": "https://enderapps.github.io/iGBA/art/dbzfury.png",
       "url": "https://enderapps.github.io/iGBA/roms/dbzfury.gba"
     },
-     
     {
       "name": "Pokemon Emerald (U)",
       "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",
       "url": "https://enderapps.github.io/iGBA/roms/pkmne.gba"  
-     },
-     {
-      "name": "Crash Bandicoot 2 - N-Tranced (E)",
-      "boxart": "https://enderapps.github.io/iGBA/art/cb2.png",
-      "url": "https://enderapps.github.io/iGBA/roms/cb2.gba"
-     }]}
+     }
+    ]}
  

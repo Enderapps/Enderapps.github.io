@@ -3,15 +3,15 @@
   "repologo": "http://enderapps.github.io/iGBA/repo.png",
   "author": "Enderapps",
   "games": [{
+      "name": "Aladdin",
+      "boxart": "https://enderapps.github.io/iGBA/art/aladdin.png",
+      "url": "https://enderapps.github.io/iGBA/roms/aladdin.gba"
+    },   {
       "name": "Dragon Ball Z - Buu’s Fury",
       "boxart": "https://enderapps.github.io/iGBA/art/dbzfury.png",
       "url": "https://enderapps.github.io/iGBA/roms/dbzfury.gba"
     },
-     {
-      "name": "Aladdin",
-      "boxart": "https://enderapps.github.io/iGBA/art/aladdin.png",
-      "url": "https://enderapps.github.io/iGBA/roms/ (U)aladdin.gba"
-    },   
+     
     {
       "name": "Pokemon Emerald (U)",
       "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",

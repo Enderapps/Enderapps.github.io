@@ -3,9 +3,9 @@
   "repologo": "http://enderapps.github.io/iGBA/repo.png",
   "author": "Enderapps",
   "games": [{
-      "name": "Pokemon Emerald",
+      "name": "Dragon Ball Z - Buu’s Fury",
       "boxart": "https://enderapps.github.io/iGBA/Pokemon%20Emerald/Boxart.png",
-      "url": "https://enderapps.github.io/iGBA/Pokemon%20Emerald/Pokemon_Emerald.gba"
+      "url": "https://enderapps.github.io/iGBA/roms/dbzfury.gba"
     },
      {
       "name": "Aladdin",

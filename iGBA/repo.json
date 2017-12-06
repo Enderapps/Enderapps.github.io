@@ -18,6 +18,31 @@
       "url": "https://enderapps.github.io/iGBA/roms/dbzfury.gba"
     },
     {
+      "name": "Dragon Ball Z - Legend of Goku",
+      "boxart": "https://enderapps.github.io/iGBA/art/dbzlg.png",
+      "url": "https://enderapps.github.io/iGBA/roms/dbzlg.gba"  
+     },
+    {
+      "name": "Dragon Ball - Z Legend of Goku 2",
+      "boxart": "https://enderapps.github.io/iGBA/art/dbzlg2.png",
+      "url": "https://enderapps.github.io/iGBA/roms/dbzlg2.gba"  
+     }
+     {
+      "name": "Final Fantasy I & II",
+      "boxart": "https://enderapps.github.io/iGBA/art/ff12.png",
+      "url": "https://enderapps.github.io/iGBA/roms/ff12.gba"
+    },
+    {
+      "name": "Final Fantasy VI Advance",
+      "boxart": "https://enderapps.github.io/iGBA/art/ffvia.png",
+      "url": "https://enderapps.github.io/iGBA/roms/ffvia.gba"
+     }, 
+     {
+      "name": "Kingdom Hearts - Chain of Memories",
+      "boxart": "https://enderapps.github.io/iGBA/art/khcm.png",
+      "url": "https://enderapps.github.io/iGBA/roms/khcm.gba"
+    },
+    {
       "name": "Need for Speed Underground",
       "boxart": "https://enderapps.github.io/iGBA/art/nfsu.png",
       "url": "https://enderapps.github.io/iGBA/roms/nfsu.gba"  

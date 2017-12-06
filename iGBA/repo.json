@@ -51,6 +51,56 @@
       "name": "Pokemon Emerald (U)",
       "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",
       "url": "https://enderapps.github.io/iGBA/roms/pkmne.gba"  
+     },
+     {
+      "name": "Pokemon - Eclipse",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmneclipse",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmneclipse.gba"
+    },
+    {
+      "name": "Pokemon",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmmme.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmme.gba"
+     }, 
+     {
+      "name": "Pokemon - Resolute",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmmres.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmmres.gba"
+    },
+    {
+      "name": "Pokemon - White Cloud",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmncloud.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmncloud.gba"  
+     },
+    {
+      "name": "Pokemon - Cawps",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmncop.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmncop.gba"  
+     },
+     {
+      "name": "Pokemon - Dust Crystal",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmncrystal.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmncrystal.gba"
+    },
+    {
+      "name": "Pokemon - Dark",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmndarkd.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmndarkd.gba"
+     }, 
+     {
+      "name": "Pokemon Z Training",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmndbz.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmndbz.gba"
+    },
+    {
+      "name": "Pokemon - Dark Violet",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmndv.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmndv.gba"  
+     },
+    {
+      "name": "Pokemon Emerald (U)",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmne.gba"  
      }
     ]}
  

@@ -28,6 +28,11 @@
       "url": "https://enderapps.github.io/iGBA/roms/dbzlg2.gba"  
      },
      {
+      "name": "Fire Emblem",
+      "boxart": "https://enderapps.github.io/iGBA/art/fireemblem.png",
+      "url": "https://enderapps.github.io/iGBA/roms/fireemblem.gba"
+    },
+     {
       "name": "Final Fantasy I & II",
       "boxart": "https://enderapps.github.io/iGBA/art/ff12.png",
       "url": "https://enderapps.github.io/iGBA/roms/ff12.gba"

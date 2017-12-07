@@ -79,7 +79,7 @@
      },
      {
       "name": "Pokemon - Dust Crystal",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmncrystal.png",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmndust.png",
       "url": "https://enderapps.github.io/iGBA/roms/pkmncrystal.gba"
     },
     {
@@ -98,9 +98,9 @@
       "url": "https://enderapps.github.io/iGBA/roms/pkmndv.gba"  
      },
     {
-      "name": "Pokemon Emerald (U)",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmne.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmne.gba"  
+      "name": "Pokemon - Sweet 2",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsweet.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmnsweet.gba"  
      }
     ]}
  

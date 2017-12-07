@@ -78,18 +78,13 @@
       "url": "https://enderapps.github.io/iGBA/roms/pkmncloud.gba"  
      },
      {
-      "name": "Pokemon - Vega",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnvega.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmnvega.gba"
-     }, 
-     {
       "name": "Pokemon - Shiny Gold",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsg.png",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsg.jpg",
       "url": "https://enderapps.github.io/iGBA/roms/pkmnsg.gba"
     },
     {
       "name": "Pokemon - Shiny Gold Sigma",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsgs.png",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsgs.jpg",
       "url": "https://enderapps.github.io/iGBA/roms/pkmnsgs.gba"  
      },
     {

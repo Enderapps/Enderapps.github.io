@@ -102,7 +102,12 @@
       "boxart": "https://enderapps.github.io/iGBA/art/pkmnsweet.png",
       "url": "https://enderapps.github.io/iGBA/roms/pkmnsweet.gba"  
      },
-            {
+     {
+      "name": "Sonic Advance 3",
+      "boxart": "https://enderapps.github.io/iGBA/art/sa3.png",
+      "url": "https://enderapps.github.io/iGBA/roms/sa3.gba"  
+     },
+     {
       "name": "Yu Gi Oh - Duel Academy",
       "boxart": "https://enderapps.github.io/iGBA/art/ygogx.png",
       "url": "https://enderapps.github.io/iGBA/roms/ygogx.gba"  

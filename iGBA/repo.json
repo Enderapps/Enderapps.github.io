@@ -77,6 +77,21 @@
       "boxart": "https://enderapps.github.io/iGBA/art/pkmncloud.png",
       "url": "https://enderapps.github.io/iGBA/roms/pkmncloud.gba"  
      },
+     {
+      "name": "Pokemon - Vega",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmnvega.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmnvega.gba"
+     }, 
+     {
+      "name": "Pokemon - Shiny Gold",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsg.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmnsg.gba"
+    },
+    {
+      "name": "Pokemon - Shiny Gold Sigma",
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmnsgs.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmnsgs.gba"  
+     },
     {
       "name": "Pokemon - Cawps",
       "boxart": "https://enderapps.github.io/iGBA/art/pkmncop.png",
@@ -89,8 +104,8 @@
     },
     {
       "name": "Pokemon - Dark",
-      "boxart": "https://enderapps.github.io/iGBA/art/pkmndarkd.png",
-      "url": "https://enderapps.github.io/iGBA/roms/pkmndarkd.gba"
+      "boxart": "https://enderapps.github.io/iGBA/art/pkmndro.png",
+      "url": "https://enderapps.github.io/iGBA/roms/pkmndro.gba"
      }, 
      {
       "name": "Pokemon Z Training",

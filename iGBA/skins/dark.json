@@ -6,35 +6,35 @@
   "author": "Dark Mode",
   "styles": [
     {
-      "header": "background-color:black; color:black;”,
-      “label”: “background-color:black; color:black;”,
-      “button”: “background-color:black; color:black;”,
-      “roundedButton”: “background-color:black; color:black;”,
-      “alert”: “background-color:black; color:black;”,
-      “containerBackground”: “background-color:black; color:black;”,
-      “cell”: “background-color:black; color:black;”,
-      “cellChevron”: “background-color:black; color:black;”,
-      “toolbar”: “background-color:black; color:black;”,
+      "header": "background-color:grey; color:grey;”,
+      “label”: “background-color:grey; color:grey;”,
+      “button”: “background-color:grey; color:grey;”,
+      “roundedButton”: “background-color:grey; color:grey;”,
+      “alert”: “background-color:grey; color:grey;”,
+      “containerBackground”: “background-color:grey; color:grey;”,
+      “cell”: “background-color:grey; color:grey;”,
+      “cellChevron”: “background-color:grey; color:grey;”,
+      “toolbar”: “background-color:grey; color:grey;”,
       “igba”: [
         {
-          “emulatorBackground”: “background-color: white; color: white;”,
-          “emulatorScreen”: “background-color: white; color: black;”,
-          “triggerL”: “background-color: red; color: white;”,
-          “triggerR”: “background-color: white; color: white;”,
-          “center”: “background-color: white; color: white;",
-          "right": "background-color: white; color: white;",
-          "left": "background-color: white; color: white;",
-          "up": "background-color: white; color: white;",
-          "down": "background-color: white; color: white;",
-          "aBtn": "background-color: red; color: white;",
-          "bBtn": "background-color: red; color: white;",
-          "startBtn": "background-color: red; color: white;",
-          "select": "background-color: red; color: white;"
+          “emulatorBackground”: “background-color: red; color: white;”,
+          “emulatorScreen”: “background-color: red; color: white;”,
+          “triggerL”: “background-color: red; red: white;”,
+          “triggerR”: “background-color: red; color: white;”,
+          “center”: “background-color: red; color: white;”,
+          “right”: “background-color: red; color: white;”,
+          “left”: “background-color: red; color: white;”,
+          “up”: “background-color: red; color: white;”,
+          “down”: “background-color: red; color: white;”,
+          “aBtn”: “background-color: red; color: white;”,
+          “bBtn”: “background-color: red; color: white;”,
+          “startBtn”: “background-color: red; color: white;”,
+          “select”: “background-color: red; color: white;”
         }
       ],
-      "custom": [
+      “custom”: [
         {
-          "igba": ".igba {background-color: black; color: white;}",
+          “igba”: “.igba {background-color: grey; color: white;}",
           "ines": ".headerContainer {background-color: red; color: white;}"
         }
       ]

@@ -1,0 +1,43 @@
+{
+  "name": "Skin Name",
+  "description": "Briefly describe the skin.",
+  "preview": "https://example.com/preview.png",
+  "logo": "http://enderapps.github.io/iGBA/repo.png",
+  "author": "Dark Mode",
+  "styles": [
+    {
+      "header": "background-color:black; color:white;",
+      "label": "background-color:black; color:white;",
+      "button": "background-color:black; color:white;",
+      "roundedButton": "background-color:black; color:white;",
+      "alert": "background-color:black; color:white;",
+      "containerBackground": "background-color:black; color:white;",
+      "cell": "background-color:black; color:white;",
+      "cellChevron": "background-color:black; color:white;",
+      "toolbar": "background-color:black; color:white;",
+      "igba": [
+        {
+          "emulatorBackground": "background-color: black; color: white;",
+          "emulatorScreen": "background-color: black; color: white;",
+          "triggerL": "background-color: red; color: white;",
+          "triggerR": "background-color: white; color: white;",
+          "center": "background-color: white; color: white;",
+          "right": "background-color: white; color: white;",
+          "left": "background-color: white; color: white;",
+          "up": "background-color: white; color: white;",
+          "down": "background-color: white; color: white;",
+          "aBtn": "background-color: red; color: white;",
+          "bBtn": "background-color: red; color: white;",
+          "startBtn": "background-color: red; color: white;",
+          "select": "background-color: red; color: white;"
+        }
+      ],
+      "custom": [
+        {
+          "igba": ".igba {background-color: red; color: white;}",
+          "ines": ".headerContainer {background-color: red; color: white;}"
+        }
+      ]
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "styles": [
     {
       "header": "background-color:black; color:white;",
-      "label": "background-color:black; color:white;",
+      "label": "background-color:white; color:white;",
       "button": "background-color:black; color:white;",
       "roundedButton": "background-color:black; color:white;",
       "alert": "background-color:black; color:white;",
@@ -34,7 +34,7 @@
       ],
       "custom": [
         {
-          "igba": ".igba {background-color: red; color: white;}",
+          "igba": ".igba {background-color: black; color: white;}",
           "ines": ".headerContainer {background-color: red; color: white;}"
         }
       ]

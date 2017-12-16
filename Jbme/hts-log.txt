@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Sat, 16 Dec 2017 18:20:03 at https://jailbreak.me +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/Jbme -A25000k%Px%q0u1s2%s%u%fDaK0p3H0N0 https://jailbreak.me +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:20:07	Error: 	"Not Found" (404) at link https://jailbreak.me/GET (from https://jailbreak.me/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 4 links scanned, 2 files written (19282339 bytes overall) [19277318 bytes received at 1204832 bytes/sec], 10659 bytes transferred using HTTP compression in 1 files, ratio 37%, 4.0 requests per connection
+(1 errors, 0 warnings, 0 messages)

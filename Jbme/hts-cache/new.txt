@@ -1,5 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:20:04	287/287	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2016%20Dec%202017%2023:20:05%20GMT	https://jailbreak.me/robots.txt		(from )
-18:20:04	10659/10659	---M-Z	200	added ('OK')	text/html	etag:%2229a3-55fb3c8ab2f80-gzip%22	https://jailbreak.me/	/storage/emulated/0/HTTrack/Websites/Jbme/jailbreak.me/index.html	(from )
-18:20:05	280/280	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2016%20Dec%202017%2023:20:06%20GMT	https://jailbreak.me/GET	/storage/emulated/0/HTTrack/Websites/Jbme/jailbreak.me/GET	(from https://jailbreak.me/)
-18:20:13	19271680/19271680	---M--	200	added ('OK')	application/x-tar	etag:%221261000-55f751152ba80%22	https://jailbreak.me/payload/Cydia.tar	/storage/emulated/0/HTTrack/Websites/Jbme/jailbreak.me/payload/Cydia.tar	(from https://jailbreak.me/)

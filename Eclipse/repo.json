@@ -76,7 +76,7 @@
     {
     "name":"Pokemon - Emerald (U)",
     "link":"https://enderapps.github.io/iGBA/roms/pkmner.gba",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnruby.png",
     "system":"GBA"
     },
     {
@@ -235,7 +235,7 @@
     {
     "name":"Pokemon - Brown (U)",
     "link":"https://enderapps.github.io/iGBA/roms/pkmnbrown.gb",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnbrown.png",
     "system":"GB"
     },
     {

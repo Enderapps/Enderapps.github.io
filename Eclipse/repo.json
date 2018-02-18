@@ -106,23 +106,6 @@
     ]
     },
     {
-    "categoryname":"Pokemon Randomizers (GBC)",
-    "games":[
-    {
-    "name":"Pokemon - Crystal (U)",
-    "pkmnrs":"https://enderapps.github.io/iGBA/roms/pkmnrc.gbc",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnrc.png",
-    "system":"GBC"
-    },
-    {
-    "name":"Pokemon - Silver (U)",
-    "link":"https://enderapps.github.io/iGBA/roms/pkmnrs.gbc",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnrsgbc.png",
-    "system":"GBC"
-    }
-    ]
-    },
-    {
     "categoryname":"Pokemon Rom Hacks (GBA)",
     "games":[
     {
@@ -232,29 +215,6 @@
     "link":"https://enderapps.github.io/iGBA/roms/pkmnsfr.gba",
     "boxart":"http://enderapps.github.io/iGBA/art/pkmnsfr.png",
     "system":"GBA"
-    }
-    ]
-    },
-    {
-    "categoryname":"Pokemon Rom Hacks (GBC)(GB)",
-    "games":[
-    {
-    "name":"Pokemon - Brown (U)",
-    "link":"https://enderapps.github.io/iGBA/roms/pkmnbrown.gb",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
-    "system":"GB"
-    },
-    {
-    "name":"Pokemon - Christmas (U)",
-    "link":"https://enderapps.github.io/iGBA/roms/pkmnchristmas.gbc",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnchristmas.png",
-    "system":"GBC"
-    },
-    {
-    "name":"Pokemon - Prism (U)",
-    "link":"https://enderapps.github.io/iGBA/roms/pkmnprism.gbc",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnprism.png",
-    "system":"GBC"
     }
     ]
     }

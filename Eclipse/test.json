@@ -236,22 +236,20 @@
     ]
     },
     {
-    "categoryname": "GBC",
-    "games": 
-    [
-    {
-    "name": "First Game",
-    "link": "link soon",
-    "boxart": "link soon",
-    "system": "GBC"
+      "categoryname": "GBC",
+      "games": [{
+        "name": "First Game",
+        "link": "link soon",
+        "boxart": "link soon",
+        "system": "GBC"
+      },
+      {
+        "name": "Last game",
+        "link": "link soon",
+        "boxart": "link soon",
+        "system": "GBC"
+      }]
     },
-    {
-    "name": "Last game",
-    "link": "link soon",
-    "boxart": "link soon",
-    "system": "GBC"
-    }
-    ]
-    }
+        
     ]
 }

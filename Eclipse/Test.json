@@ -5,6 +5,119 @@
   "repodesc": "There's way too many games in here...",
   "categories": [
     {
+    "categoryname":"Pokemon Rom Hacks (GBA)",
+    "games":[
+    {
+    "name":"Pokemon - Eclipse (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmneclipse.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmneclipse.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Eclipse (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmneclipse.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmneclipse.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Blue Chapter (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnbc.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnbc.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Green Chapter (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmngc3.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmngc3.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Resolute (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnres.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnres.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - White Cloud (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmncloud.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmncloud.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Shiny Gold (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsg.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsg.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Shiny Gold Sigma (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsgs.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsgs.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Cawps (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmncop.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmncop.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Dust Crystal (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmncrystal.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndust.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Digimon Worlds Collide (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndro.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndro.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon -  Pokemon Z Training (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndbz.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndbz.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Dark Violet (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndv.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndvv.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Sweet 2 (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsweet2.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsweet2.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Order Destoryed (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndrod.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndro.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Theta Emerald EX (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnex.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnex.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Korosu (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnk.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnk.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Super Fire Red (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsfr.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsfr.png",
+    "system":"GBA"
+    }
+    ]
+    },
+    {
     "categoryname":"Pokemon Rom Hacks (GBC)(GB)",
     "games":[
     {

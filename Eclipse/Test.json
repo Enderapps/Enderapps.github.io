@@ -1,1 +1,88 @@
-
+{
+  "reponame": "Horizon",
+  "repologo": "http://horizon.luke.tf/main.jpg",
+  "repoauthor": "@notwooko",
+  "repodesc": "There's way too many games in here...",
+  "categories": [{
+      "categoryname": "NES",
+      "games": [{
+        "name": "Super Mario Bros.",
+        "link": "http://horizon.luke.tf/games/MarioBros.NES",
+        "boxart": "https://i.luke.tf/mariobros.jpg",
+        "system": "NES"
+      },
+      {
+        "name": "Last game",
+        "link": "link soon",
+        "boxart": "link soon",
+        "system": "NES"
+      }
+    ]
+  },
+    {
+      "categoryname": "GB",
+      "games": [{
+        "name": "Super Mario Land",
+        "link": "http://horizon.luke.tf/games/gb/SuperMarioLand.gb",
+        "boxart": "http://takeontheneslibrary.com/wp-content/uploads/2016/06/gb_supermarioland.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "FIFA Soccer '97",
+        "link": "http://horizon.luke.tf/games/gb/FIFASoccer97.gb",
+        "boxart": "https://gamefaqs.akamaized.net/box/1/9/8/46198_front.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Adventure Island",
+        "link": "http://horizon.luke.tf/games/gb/AdventureIsland.gb",
+        "boxart": "http://horizon.luke.tf/images/gb-adventureisland.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Tetris",
+        "link": "http://horizon.luke.tf/games/gb/Tetris.gb",
+        "boxart": "http://www.retrogameage.com/wp-content/uploads/2017/08/Tetris_Coverart-12.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "Tetris 2",
+        "link": "http://horizon.luke.tf/games/gb/Tetris2.gb",
+        "boxart": "https://gamefaqs.akamaized.net/box/3/0/4/25304_front.jpg",
+        "system": "GB"
+      }
+    ]
+    },
+    {
+      "categoryname": "GBC",
+      "games": [{
+        "name": "First Game",
+        "link": "link soon",
+        "boxart": "link soon",
+        "system": "GBC"
+      },
+      {
+        "name": "Last game",
+        "link": "link soon",
+        "boxart": "link soon",
+        "system": "GBC"
+      }]
+    },
+    {
+      "categoryname": "GBA",
+      "games": [{
+          "name": "First Game",
+          "link": "link soon",
+          "boxart": "link soon",
+          "system": "GBA"
+        },
+        {
+          "name": "Last game",
+          "link": "link soon",
+          "boxart": "link soon",
+          "system": "GBA"
+        }
+      ]
+    }
+  ]
+}

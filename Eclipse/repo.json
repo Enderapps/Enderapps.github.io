@@ -41,7 +41,7 @@
     {
     "name":"Fire Emblem",
     "link":"https://enderapps.github.io/iGBA/roms/fireemblem.gba",
-    "boxart":"http://enderapps.github.io/iGBA/art/fireemblem.png",
+    "boxart":"http://enderapps.github.io/iGBA/art/fireemblem.jpeg",
     "system":"GBA"
     },
     {
@@ -164,7 +164,7 @@
     {
     "name":"Pokemon - Shiny Gold Sigma (U)",
     "link":"https://enderapps.github.io/iGBA/roms/pkmnsgs.gba",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsgs.png",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsgs.jpeg",
     "system":"GBA"
     },
     {
@@ -218,13 +218,13 @@
     {
     "name":"Pokemon - Korosu (U)",
     "link":"https://enderapps.github.io/iGBA/roms/pkmnk.gba",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnk.png",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnk.jpg",
     "system":"GBA"
     },
     {
     "name":"Pokemon - Super Fire Red (U)",
     "link":"https://enderapps.github.io/iGBA/roms/pkmnsfr.gba",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsfr.png",
+    "boxart":"http://enderapps.github.io/iGBA/art/Pokemon_Super_Fire.png",
     "system":"GBA"
     }
     ]

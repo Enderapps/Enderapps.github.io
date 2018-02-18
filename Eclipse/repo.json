@@ -1,0 +1,245 @@
+
+{
+    "reponame":"Ender’s World",
+    "repologo":"https://enderapps.github.io/iGBA/repo.png",
+    "repoauthor":"Enderapps",
+    "repodesc":"This Eclipse repo is filled with official roms, rom hacks, and randomizers. If you would like to suggest any rom to be added please message me on Twitter @Cyra_Enderapps.",
+    "categories":[
+    {
+    "categoryname":"official GBA Games",
+    "games":[
+    {
+    "name":"Aladdin",
+    "link":"https://enderapps.github.io/iGBA/roms/aladdin.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/aladdin.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Crash Bandicoot 2- N-Tranced (E)",
+    "link":"https://enderapps.github.io/iGBA/roms/cb2.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/cb2.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Dragon Ball Z - Buu's Fury",
+    "link":"https://enderapps.github.io/iGBA/roms/dbzfury.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/dbzfury.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Dragon Ball Z - Legend of Goku",
+    "link":"https://enderapps.github.io/iGBA/roms/dbzlg.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/dbzlg.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Dragon Ball Z - Legend of Goku 2",
+    "link":"https://enderapps.github.io/iGBA/roms/dbzlg2.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/dbzlg2.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Fire Emblem",
+    "link":"https://enderapps.github.io/iGBA/roms/fireemblem.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/fireemblem.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Final Fantasy I & II",
+    "link":"https://enderapps.github.io/iGBA/roms/ff12.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/ff12.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Final Fantasy VI Advance",
+    "link":"https://enderapps.github.io/iGBA/roms/ffvia.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/ffvia.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Kingdom Hearts - Chain of Memories",
+    "link":"https://enderapps.github.io/iGBA/roms/khcm.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/khcm.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Need for Speed Underground",
+    "link":"https://enderapps.github.io/iGBA/roms/nfsu.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/nfsu.png",
+    "system":"GBA"
+    }
+    ]
+    },
+    {
+    "categoryname":"Pokemon Randomizers (GBA)",
+    "games":[
+    {
+    "name":"Pokemon - Emerald (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmner.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Fire Red (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnfrr.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnfr.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Leaf Green (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnlgr.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnlgr.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Ruby (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnrr.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Sapphire (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnrs.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnrs.png",
+    "system":"GBA"
+    }
+    ]
+    },
+    {
+    "categoryname":"Pokemon Rom Hacks (GBA)",
+    "games":[
+    {
+    "name":"Pokemon - Eclipse (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmneclipse.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmneclipse.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Eclipse (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmneclipse.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmneclipse.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Blue Chapter (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnbc.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnbc.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Green Chapter (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmngc3.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmngc3.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Resolute (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnres.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnres.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - White Cloud (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmncloud.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmncloud.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Shiny Gold (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsg.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsg.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Shiny Gold Sigma (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsgs.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsgs.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Cawps (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmncop.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmncop.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Dust Crystal (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmncrystal.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndust.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Digimon Worlds Collide (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndro.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndro.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon -  Pokemon Z Training (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndbz.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndbz.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Dark Violet (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndv.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndvv.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Sweet 2 (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsweet2.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsweet2.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Order Destoryed (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmndrod.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmndro.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Theta Emerald EX (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnex.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnex.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Korosu (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnk.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnk.png",
+    "system":"GBA"
+    },
+    {
+    "name":"Pokemon - Super Fire Red (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnsfr.gba",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnsfr.png",
+    "system":"GBA"
+    }
+    ]
+    },
+    {
+    "categoryname":"Pokemon Rom Hacks (GBC)(GB)",
+    "games":[
+    {
+    "name":"Pokemon - Brown (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnbrown.gb",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
+    "system":"GB"
+    },
+    {
+    "name":"Pokemon - Christmas (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnchristmas.gbc",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnchristmas.png",
+    "system":"GBC"
+    },
+    {
+    "name":"Pokemon - Prism (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnprism.gbc",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnprism.png",
+    "system":"GBC"
+    }
+    ]
+    }
+    ]
+}

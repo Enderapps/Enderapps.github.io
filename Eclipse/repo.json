@@ -234,23 +234,6 @@
     "system":"GBA"
     }
     ]
-    },
-    {
-    "categoryname":"Pokemon Rom Hacks (GBC)",
-    "games":[
-    {
-    "name":"Pokemon - Christmas (U)",
-    "link":"https://enderapps.github.io/iGBA/roms/pkmnchristmas.gbc",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnchristmas.png",
-    "system":"GBC"
-    },
-    {
-    "name":"Pokemon - Prism (U)",
-    "link":"https://enderapps.github.io/iGBA/roms/pkmnprism.gbc",
-    "boxart":"http://enderapps.github.io/iGBA/art/pkmnprism.png",
-    "system":"GBC"
-    }
-    ]
     }
     ]
 }

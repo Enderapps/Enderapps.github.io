@@ -5,19 +5,20 @@
   "repodesc": "There's way too many games in here...",
   "categories": [
     {
-      "categoryname": "GBC",
-      "games": [{
-        "name": "First Game",
-        "link": "link soon",
-        "boxart": "link soon",
-        "system": "GBC"
-      },
+    "categoryname":"Pokemon Rom Hacks (GBC)(GB)",
+    "games":[
+    {
+    "name":"Pokemon - Brown (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnbrown.gb",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmne.png",
+    "system":"GB"
+    },
       {
-        "name": "Last game",
-        "link": "link soon",
-        "boxart": "link soon",
-        "system": "GBC"
-      }]
+    "name":"Pokemon - Prism (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnprism.gbc",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnprism.png",
+    "system":"GBC"
+    }]
     },
     {
       "categoryname": "GBA",

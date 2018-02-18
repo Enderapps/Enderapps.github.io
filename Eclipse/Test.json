@@ -3,7 +3,24 @@
   "repologo": "http://horizon.luke.tf/main.jpg",
   "repoauthor": "@notwooko",
   "repodesc": "There's way too many games in here...",
-  "categories": [
+  "categories": [  
+    {
+    "categoryname":"Pokemon Randomizers (GBC)",
+    "games":[
+    {
+    "name":"Pokemon - Crystal (U)",
+    "pkmnrs":"https://enderapps.github.io/iGBA/roms/pkmnrc.gbc",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnrc.png",
+    "system":"GBC"
+    },
+    {
+    "name":"Pokemon - Silver (U)",
+    "link":"https://enderapps.github.io/iGBA/roms/pkmnrs.gbc",
+    "boxart":"http://enderapps.github.io/iGBA/art/pkmnrsgbc.png",
+    "system":"GBC"
+    }
+    ]
+    },
     {
     "categoryname":"Pokemon Rom Hacks (GBA)",
     "games":[

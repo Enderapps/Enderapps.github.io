@@ -11,7 +11,11 @@
     <!-- Path to your custom app styles-->
     <link rel="stylesheet" href="css/my-app.css">
     <link rel=“stylesheet” href=“css/framework7-TwitterDarkMode.css”>
-    
+    <script>
+function myFunction() {
+    location.reload();
+}
+</script>
   </head>
   <body class=“layout-TDM”>
     <!-- Status bar overlay for fullscreen mode-->
@@ -64,7 +68,7 @@
         </div>
         <!-- Bottom Toolbar-->
         <div class="toolbar">
-          <div class="toolbar-inner"><a href="http://twitter.com/Cyra_enderapps" class="external">Twitter</a><a href="http://enderapps.github.io" class="external">Site</a></div>
+          <div class="toolbar-inner"><a href="http://twitter.com/Cyra_enderapps" class="external">Twitter</a><a id="myLink" href="#" onclick="MyFunction();">link text</a></div>
         </div>
       </div>
     </div>

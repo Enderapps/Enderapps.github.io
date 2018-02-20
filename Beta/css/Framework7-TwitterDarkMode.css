@@ -1,0 +1,321 @@
+/**
+ * Framework7 Twitter Dark Mode 1.0
+ * Complete New Theme for Framework7 to bring a Dark Mode that looks like the native twitter app dark mode!
+ * 
+ *
+ * https://s0n1c.tk/TDM/
+ * 
+ * Copyright 2016, @S0n1c_Dev
+ * S0n1c
+ * https://s0n1c.tk/
+ * 
+ * Licensed under MIT
+ * 
+ * Released on: August, 2016
+ *
+ *
+ * simple colors
+ *
+ * #141c26 = page content
+ *
+ * #1b2836 = all items
+ *
+ * #243447 = nav and tab
+ */
+
+.layout-TDM .body {
+background-color: #141c26;	
+}
+
+.layout-TDM .navbar,
+.navbar.layout-TDM,
+.layout-TDM .subnavbar,
+.subnavbar.layout-TDM {
+  background-color: #243447 !important;
+  color: #fff;
+}
+.layout-TDM .navbar:after,
+.navbar.layout-TDM:after,
+.layout-TDM .subnavbar:after,
+.subnavbar.layout-TDM:after {
+  background-color: #243447;
+}
+.layout-TDM .toolbar,
+.toolbar.layout-TDM {
+  background-color: #243447;
+  color: #fff;
+}
+.layout-TDM .toolbar:before,
+.toolbar.layout-TDM:before {
+  background-color: #243447;
+}
+.layout-TDM .picker-modal .toolbar {
+  background-color: #243447;
+}
+.layout-TDM .popover .picker-modal .toolbar {
+  background: none;
+}
+.layout-TDM .picker-calendar-week-days {
+  color: #fff;
+  background-color: #141c26;
+}
+.layout-TDM .popover .picker-modal .picker-center-highlight:before,
+.layout-TDM .picker-modal.picker-modal-inline .picker-center-highlight:before {
+  background-color: #141c26;
+}
+.layout-TDM .popover .picker-modal .picker-center-highlight:after,
+.layout-TDM .picker-modal.picker-modal-inline .picker-center-highlight:after {
+  background-color: #141c26;
+}
+.layout-TDM .popover .picker-modal .picker-item.picker-selected,
+.layout-TDM .picker-modal.picker-modal-inline .picker-item.picker-selected {
+  color: #fff;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-week-days,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-week-days {
+  color: #fff;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-day,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-day {
+  color: #fff;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-day.picker-calendar-day-prev,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-day.picker-calendar-day-prev,
+.layout-TDM .popover .picker-modal .picker-calendar-day.picker-calendar-day-next,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-day.picker-calendar-day-next {
+  color: #777;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-day.picker-calendar-day-disabled,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-day.picker-calendar-day-disabled {
+  color: #555;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-day.picker-calendar-day-today span,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-day.picker-calendar-day-today span {
+  background: #141c26;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-day.picker-calendar-day-has-events span:after,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-day.picker-calendar-day-has-events span:after {
+  background: #141c26;
+}
+.layout-TDM .popover .picker-modal .picker-calendar-week-days:after,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-week-days:after,
+.layout-TDM .popover .picker-modal .picker-calendar-row:after,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-row:after {
+  background-color: #141c26;
+}
+.layout-TDM .popover .picker-modal .toolbar ~ .picker-modal-inner .picker-calendar-months:before,
+.layout-TDM .picker-modal.picker-modal-inline .toolbar ~ .picker-modal-inner .picker-calendar-months:before,
+.layout-TDM .popover .picker-modal .picker-calendar-week-days ~ .picker-calendar-months:before,
+.layout-TDM .picker-modal.picker-modal-inline .picker-calendar-week-days ~ .picker-calendar-months:before {
+  background-color: #141c26;
+}
+.layout-TDM .popover .picker-modal .toolbar:after {
+  background-color: #141c26;
+}
+.layout-TDM .photo-browser .navbar,
+.layout-TDM .views .view[data-page="photo-browser-slides"] .navbar,
+.layout-TDM .photo-browser .toolbar,
+.layout-TDM .views .view[data-page="photo-browser-slides"] .toolbar {
+  color: #000;
+  background: rgba(247, 247, 247, 0.95);
+}
+.layout-TDM .photo-browser-dark .navbar,
+.layout-TDM .photo-browser-dark .toolbar {
+  background: rgba(30, 30, 30, 0.8);
+  color: #fff;
+}
+.layout-TDM .tabbar a:not(.active) {
+  color: #fff;
+}
+.layout-TDM .page,
+.layout-TDM .login-screen-content,
+.layout-TDM .popup,
+.page.layout-TDM,
+.layout-TDM .panel,
+.panel.layout-TDM {
+  background-color: #141c26;
+  color: #ddd;
+}
+.layout-TDM .content-block-title {
+  color: #fff;
+}
+.layout-TDM .content-block,
+.content-block.layout-TDM {
+  color: #bbb;
+}
+.layout-TDM .content-block-inner {
+  background: #1b2836;
+  color: #ddd;
+}
+.layout-TDM .content-block-inner:before {
+  background-color: #393939;
+}
+.layout-TDM .content-block-inner:after {
+  background-color: #393939;
+}
+.layout-TDM .list-block ul,
+.list-block.layout-TDM ul {
+  background: #1b2836;
+}
+.layout-TDM .list-block ul:before,
+.list-block.layout-TDM ul:before {
+  background-color: #393939;
+}
+.layout-TDM .list-block ul:after,
+.list-block.layout-TDM ul:after {
+  background-color: #393939;
+}
+.layout-TDM .list-block.inset ul,
+.list-block.layout-TDM.inset ul {
+  background: #1b2836;
+}
+.layout-TDM .list-block.notifications > ul,
+.list-block.layout-TDM.notifications > ul {
+  background: none;
+}
+.layout-TDM .autocomplete-dropdown {
+  background: #1c1d1f;
+}
+.layout-TDM .autocomplete-dropdown .list-block b {
+  color: #fff;
+}
+.layout-TDM .card {
+  background: #1b2836;
+}
+.layout-TDM .card-header:after {
+  background-color: #1b2836;
+  color: #fff;
+}
+.layout-TDM .card-footer {
+  color: #fff;
+}
+.layout-TDM .card-footer:before {
+  background-color: #1b2836;
+}
+.layout-TDM .popover,
+.popover.layout-TDM {
+  background: rgba(0, 0, 0, 0.8);
+}
+.layout-TDM .popover .popover-angle:after,
+.popover.layout-TDM .popover-angle:after {
+  background: rgba(0, 0, 0, 0.8);
+}
+.layout-TDM .popover .list-block ul,
+.popover.layout-TDM .list-block ul {
+  background: none;
+}
+.layout-TDM .actions-popover .list-block ul:before {
+  background-color: #393939;
+}
+.layout-TDM .actions-popover .list-block  ul:after {
+  background-color: #393939;
+}
+.layout-TDM .actions-popover .actions-popover-label:after {
+  background-color: #393939;
+}
+.layout-TDM li.sorting {
+  background-color: #29292f;
+}
+.layout-TDM .swipeout-actions-left a,
+.layout-TDM .swipeout-actions-right a {
+  background-color: #444;
+}
+.layout-TDM .item-inner:after,
+.layout-TDM .list-block ul ul li:last-child .item-inner:after {
+  background-color: #393939;
+}
+.layout-TDM .item-after {
+  color: #bbb;
+}
+html:not(.watch-active-state) .layout-TDM .item-link:active,
+html:not(.watch-active-state) .layout-TDM label.label-checkbox:active,
+html:not(.watch-active-state) .layout-TDM label.label-radio:active,
+.layout-TDM .item-link.active-state,
+.layout-TDM label.label-checkbox.active-state,
+.layout-TDM label.label-radio.active-state {
+  background-color: #29292f;
+}
+.layout-TDM .item-link.list-button:after {
+  background-color: #393939;
+}
+.layout-TDM .list-block-label {
+  color: gray;
+}
+.layout-TDM .item-divider,
+.layout-TDM .list-group-title {
+  background: #141c26 !important;
+  color: #fff !important;
+}
+.layout-TDM .item-divider:before,
+.layout-TDM .list-group-title:before {
+  background-color: #393939;
+}
+.layout-TDM .searchbar {
+  background: #1b2836;
+}
+.layout-TDM .searchbar:after {
+  background-color: #1b2836;
+}
+.layout-TDM .list-block input[type="text"],
+.list-block.layout-TDM input[type="text"],
+.layout-TDM .list-block input[type="password"],
+.list-block.layout-TDM input[type="password"],
+.layout-TDM .list-block input[type="email"],
+.list-block.layout-TDM input[type="email"],
+.layout-TDM .list-block input[type="tel"],
+.list-block.layout-TDM input[type="tel"],
+.layout-TDM .list-block input[type="url"],
+.list-block.layout-TDM input[type="url"],
+.layout-TDM .list-block input[type="date"],
+.list-block.layout-TDM input[type="date"],
+.layout-TDM .list-block input[type="datetime-local"],
+.list-block.layout-TDM input[type="datetime-local"],
+.layout-TDM .list-block input[type="number"],
+.list-block.layout-TDM input[type="number"],
+.layout-TDM .list-block select,
+.list-block.layout-TDM select,
+.layout-TDM .list-block textarea,
+.list-block.layout-TDM textarea {
+  color: #fff;
+}
+.layout-TDM .label-switch .checkbox {
+  background-color: #243447 !important;
+}
+.layout-TDM .label-switch .checkbox:before {
+  background-color: #1c1d1f;
+}
+.layout-TDM .range-slider input[type="range"]:after {
+  background: #1c1d1f;
+}
+.layout-TDM .range-slider input[type="range"]::-ms-thumb {
+  border: none;
+}
+
+.layout-TDM .modal-inner {
+	background-color: #243447;
+	color: white;
+}
+.layout-TDM .modal-button  {
+	background-color: #243447;
+}
+.layout-TDM .modal-text-input {
+	background-color: #141c26;
+	color: white;
+}
+
+.layout-TDM .button {
+	margin-left: 20%;
+	margin-right: 20%
+	
+}
+
+.layout-TDM .button .button-fill {
+	background: #243447 !important;
+	color: #a2b0c2 !important;
+	border: none !important;
+}
+
+.layout-TDM .searchbar input[type="search"] {
+	background-color: #141c26;
+	color: white;
+}

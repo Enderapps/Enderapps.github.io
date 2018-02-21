@@ -5,7 +5,16 @@
     window.location = "https://www.yt-download.org/@api/button/videos/" + userInput;
 }
 </script>
+<style>
+input[type=text] {
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
 
+input[type=text]:focus {
+    width: 100%;
+}
+</style
 Here is a link : <a href="" id=lnk>nothing here yet</a> <br>
 <input type='text' id='userInput' value='' />
 <input type='button' onclick='changeText2()' value='Enter'/>

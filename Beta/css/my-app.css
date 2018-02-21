@@ -17,7 +17,9 @@ myApp.onPageInit('about', function (page) {
         createContentPage();
     });
 });
-
+a {
+    color: black;
+}
 // Generate dynamic page
 var dynamicPageIndex = 0;
 function createContentPage() {
